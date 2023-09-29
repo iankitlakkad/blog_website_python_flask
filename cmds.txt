@@ -1,0 +1,3 @@
+python -m venv env #create virtual enviroment
+.\env\Scripts\activate #activate virtual enviroment
+flask --app run.py --debug run #Run flask app
